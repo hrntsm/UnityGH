@@ -8,6 +8,7 @@ Connect grasshopper3d and Unity by UDP and display mesh on Unity.
 * UDPMesh.cs file is the part of UDPreceiver in Unity.
 * GHMesh.cs file makes mesh in Unity from the data which Unity received from grasshopper.  
 * Grasshopper send to Unity with vertex coordinates as Comma Separated Value and generate mesh on Unity based on the information.
+* Please refer to the blog which I made for the details. [Myblog Page](https://rgkr-memo.blogspot.com/2019/04/MethodToSendSurfaceToUnityUsingUDP.html).(Only Japanese)
 
 ## Reference
 
